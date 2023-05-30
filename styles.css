@@ -1,0 +1,9 @@
+body{
+    background: #1F618D;
+    background: -webkit-linear-gradient(to right, #1F618D, #5499C7);
+    background: linear-gradient(to right, #1F618D, #5DADE2);
+}
+
+.badge {
+    font-size: 25px;
+}
